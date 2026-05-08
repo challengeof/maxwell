@@ -1,8 +1,6 @@
 This is __Maxwell's daemon__, a [change data capture](https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/) application 
 that reads MySQL binlogs and writes data changes as JSON to Kafka, Kinesis, and other streaming platforms.
 
-
-
 [↓ Download](https://github.com/zendesk/maxwell/releases/download/v1.44.0/maxwell-1.44.0.tar.gz) \|
 [⚝ Source / Community](https://github.com/zendesk/maxwell) \|
 [☝ Getting Started](/quickstart) \|
